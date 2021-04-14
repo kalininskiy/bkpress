@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## bkpress.ru
 
-You can use the [editor on GitHub](https://github.com/kalininskiy/bkpress/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Публикации в периодических изданиях, книги, документация, а так же электронные газеты и журналы для Электроника БК-0010[-01], БК-0011[М], Союз-Неон (ПК-11/16).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Темы
 
-### Markdown
+- **Документация**
+- **Книги**
+- **Публикации**
+- **Электронная пресса**
+- **Ссылки на ресурсы (bknet)**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Документация
 
-- Bulleted
-- List
+1.
 
-1. Numbered
-2. List
+### Книги
 
-**Bold** and _Italic_ and `Code` text
+2.
 
-[Link](url) and ![Image](src)
-```
+### Публикации
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+3.
 
-### Jekyll Themes
+### Электронная пресса
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalininskiy/bkpress/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+4.
 
-### Support or Contact
+### Ссылки на ресурсы (bknet)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+5.
