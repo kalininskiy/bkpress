@@ -222,4 +222,3 @@
 - Персональная ЭВМ ПК-11/16. Плата вычислителя. Техническое описание. - [[HTML]](http://emuverse.ru/wiki/Союз-Неон_ПК-11/16_ТО) - [[TXT]](https://github.com/kalininskiy/bkpress/raw/main/files/to.rar)
 - Персональная ЭВМ ПК-11/16. Встроенное программное обеспечение. - [[HTML]](http://emuverse.ru/wiki/Союз-Неон_ПК-11/16_ВПО) - [[TXT]](https://github.com/kalininskiy/bkpress/raw/main/files/PK-11.rar)
 - Программное обеспечение ПЭВМ ПК-11/16К. Операционная система "Аспект". [[PDF]](https://github.com/kalininskiy/bkpress/raw/main/files/SOUZ-NEON_ASPEKT_OS_p0-2_p7-9_p74_.pdf)
-- 
