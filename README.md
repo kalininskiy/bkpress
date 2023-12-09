@@ -32,8 +32,8 @@
 
 ### Наука и жизнь
 
-- *Бойко А. Чикоруди Р.* Электроника БК-0010 дома и в школе // *Наука и жизнь*. 1987. №-8. С. 33-35 - [[DjVu]](http://publ.lib.ru/ARCHIVES/N/''Nauka_i_jizn'''/''Nauka_i_jizn''',1987,N08.[djv-fax].zip)
-- *Борисов А.Б.* Школа начинающего программиста. Бейсик БК. // *Наука и жизнь*. 1989. №-3. С. 109-113, №-5. С. 127-131. - [[DjVu 1989-3]](http://publ.lib.ru/ARCHIVES/N/%27%27Nauka_i_jizn%27%27%27/''Nauka_i_jizn''',1989,N03.[djv-fax].zip) [[DjVu 1989-5]](http://publ.lib.ru/ARCHIVES/N/%27%27Nauka_i_jizn%27%27%27/''Nauka_i_jizn''',1989,N05.[djv-fax].zip)
+- *Бойко А. Чикоруди Р.* Электроника БК-0010 дома и в школе // *Наука и жизнь*. 1987. №-8. С. 33-35 - [[DjVu]](http://publ.lib.ru/ARCHIVES/N/''Nauka_i_jizn'''_(jurnal)/Nauka_i_jizn',1987,N08.%5bdjv-fax%5d.zip)
+- *Борисов А.Б.* Школа начинающего программиста. Бейсик БК. // *Наука и жизнь*. 1989. №-3. С. 109-113, №-5. С. 127-131. - [[DjVu 1989-3]](http://publ.lib.ru/ARCHIVES/N/''Nauka_i_jizn'''_(jurnal)/Nauka_i_jizn',1989,N03.%5bdjv-fax%5d.zip) [[DjVu 1989-5]](http://publ.lib.ru/ARCHIVES/N/''Nauka_i_jizn'''_(jurnal)/Nauka_i_jizn',1989,N05.%5bdjv-fax%5d.zip)
 
 
 
